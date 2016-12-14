@@ -1,8 +1,6 @@
 <opml version="1.0">
 	<head>
 		<title>Podcasts</title>
-		<dateCreated>Tue, 13 Dec 2016 16:17:01 GMT</dateCreated>
-		<dateModified>Tue, 13 Dec 2016 16:17:01 GMT</dateModified>
 	</head>
 	<body>
 		<outline text="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="" />
@@ -44,5 +42,7 @@
 		<outline text="In Our Time" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss" htmlUrl=""/>
 		<outline text="Common Sense with Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml" htmlUrl=""/>
 		<outline text="Ctrl Walt Delete" type="rss" xmlUrl="http://rss.art19.com/ctrl-walt-delete" htmlUrl=""/>
+		<outline text="The Talk Show" type="rss" xmlUrl="http://daringfireball.net/thetalkshow/rss" htmlUrl=""/>
+		<outline text="China History Podcast" xmlUrl="http://chinahistorypodcast.libsyn.com/rss" htmlUrl="" />
 	</body>
 </opml>
