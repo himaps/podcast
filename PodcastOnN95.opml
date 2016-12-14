@@ -1,0 +1,48 @@
+<opml version="1.0">
+	<head>
+		<title>Podcasts</title>
+		<dateCreated>Tue, 13 Dec 2016 16:17:01 GMT</dateCreated>
+		<dateModified>Tue, 13 Dec 2016 16:17:01 GMT</dateModified>
+	</head>
+	<body>
+		<outline text="99% Invisible" type="rss" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" htmlUrl="" />
+		<outline text="NPR: Planet Money Podcast" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" htmlUrl="" />
+		<outline text="WNYC's Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="" />
+		<outline text="the memory palace" type="rss" xmlUrl="http://memorypalace.wm.wizzard.tv/rss" htmlUrl="" />
+		<outline text="The Record" type="rss" xmlUrl="http://therecord.co/xml/rss.xml" htmlUrl="" />
+		<outline text="Harmontown" xmlUrl="http://www.castmate.fm/feed.php?u=harmontownpodcast" htmlUrl="" />
+		<outline text="Good Job, Brain!" type="rss" xmlUrl="http://goodjobbrain.libsyn.com/rss" htmlUrl="" />
+		<outline text="fxguide: the vfx show" type="rss" xmlUrl="http://www.fxguide.com/category/vfxshow/feed/" htmlUrl="" />
+		<outline text="Judge John Hodgman" type="rss" xmlUrl="http://feeds.feedburner.com/todayinthepast" />
+		<outline text="Sawbones: A Marital Tour of Misguided Medicine" xmlUrl="http://sawbones.libsyn.com/rss" htmlUrl="" />
+		<outline text="Thrilling Adventure Hour" type="rss" xmlUrl="http://feeds.feedburner.com/ThrillingAdventureHour" htmlUrl="" />
+		<outline text="Freakonomics Radio" type="rss" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" htmlUrl="" />
+		<outline text="The History of Britain" type="rss" xmlUrl="http://feeds.feedburner.com/TheBritishHistory" htmlUrl="" />
+		<outline text="Stuff You Should Know" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" htmlUrl="" />
+		<outline text="Fugitive Waves" type="rss" xmlUrl="http://feeds.fugitivewaves.org/fugitivewaves" htmlUrl="" />
+		<outline text="Radio Diaries" type="rss" xmlUrl="http://feed.radiodiaries.org/radio-diaries" htmlUrl="" />
+		<outline text="Strangers" type="rss" xmlUrl="http://www.kcrw.com/podcast/show/sg" htmlUrl="" />
+		<outline text="The Truth" type="rss" xmlUrl="http://feeds.feedburner.com/thetruthapm" htmlUrl="" />
+		<outline text="Here's The Thing" type="rss" xmlUrl="http://feeds.feedburner.com/wnycheresthething" htmlUrl="" />
+		<outline text="fxguide: the rc" type="rss" xmlUrl="http://www.fxguide.com/category/therc/feed/" htmlUrl="" />
+		<outline text="Ludology" type="rss" xmlUrl="http://ludology.libsyn.com/rss" htmlUrl="" />
+		<outline text="Getting on" xmlUrl="http://gettingonwithju.libsyn.com/rss" htmlUrl="" />
+		<outline text="Dan Carlin's Hardcore History" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl="" />
+		<outline text="Windows Weekly" type="rss" xmlUrl="http://leoville.tv/podcasts/ww.xml" htmlUrl="" />
+		<outline text="This American Life" type="rss" xmlUrl="http://feeds.thisamericanlife.org/talpodcast" htmlUrl="" />
+		<outline text="The Moth Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/themothpodcast" htmlUrl="" />
+		<outline text="Real Talk Podcast" xmlUrl="http://feeds.feedburner.com/realtalkio" htmlUrl="" />
+		<outline text="Welcome To Night Vale" xmlUrl="http://feeds.feedburner.com/WelcomeToNightVale" htmlUrl="" />
+		<outline text="The History of Byzantium" type="rss" xmlUrl="http://thehistoryofbyzantium.libsyn.com/rss" htmlUrl="" />
+		<outline text="Reply All" type="rss" xmlUrl="http://feeds.gimletmedia.com/hearreplyall" htmlUrl=""/>
+		<outline text="Heavyweight" type="rss" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" htmlUrl=""/>
+		<outline text="Startup" type="rss" xmlUrl="http://feeds.gimletmedia.com/hearstartup" htmlUrl=""/>
+		<outline text="The Vergecast" type="rss" xmlUrl="http://feeds.feedburner.com/ThisIsMyNextPodcast" />
+		<outline text="Radiolab" title="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl=""/>
+		<outline text="Slate's Political Gabfest" type="rss" xmlUrl="http://feeds.feedburner.com/SlatePoliticalGabfest" htmlUrl=""/>
+		<outline text="POLITICO's Off Message" type="rss" xmlUrl="http://feeds.feedburner.com/OffMessage" htmlUrl=""/>
+		<outline text="In Our Time" type="rss" xmlUrl="http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss" htmlUrl=""/>
+		<outline text="Common Sense with Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml" htmlUrl=""/>
+		<outline text="Ctrl Walt Delete" type="rss" xmlUrl="http://rss.art19.com/ctrl-walt-delete" htmlUrl=""/>
+	</body>
+</opml>
