@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline type="rss" text="The New Yorker: Fiction" xmlUrl="http://feeds.wnyc.org/tnyfiction" />
+			<outline type="rss" text="Canadian Club of Toronto" xmlUrl="http://www.vvcnetwork.ca/canclub/canadianclubpodcast.xml" />
+			<outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />
+			<outline type="rss" text="Entrepreneurial Thought Leaders" xmlUrl="http://www.kaltura.com/api_v3/getFeed.php?partnerId=2279881&amp;feedId=0_nqpv5nig&amp;ver=2" />
+			<outline type="rss" text="Asymcar" xmlUrl="http://feeds.5by5.tv/asymcar" />
+			<outline type="rss" text="The Moth" xmlUrl="http://feeds.feedburner.com/themothpodcast" />
+			<outline type="rss" text="Revolutions" xmlUrl="http://revolutionspodcast.libsyn.com/rss" />
+			<outline type="rss" text="Dan Carlin&apos;s Hardcore History" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml" />
+			<outline type="rss" text="The History of Byzantium" xmlUrl="https://rss.acast.com/thehistoryofbyzantium" />
+			<outline type="rss" text="New Yorker: Comment" xmlUrl="http://www.newyorker.com/feed/podcast/comment" />
+			<outline type="rss" text="The Critical Path" xmlUrl="http://feeds.5by5.tv/criticalpath/" />
+			<outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" />
+			<outline type="rss" text="Accidental Tech Podcast" xmlUrl="http://atp.fm/episodes?format=rss" />
+			<outline type="rss" text="CANADALAND" xmlUrl="http://canadaland.libsyn.com/rss" />
+			<outline type="rss" text="Criminal" xmlUrl="http://feeds.thisiscriminal.com/CriminalShow" />
+			<outline type="rss" text="StartUp Podcast" xmlUrl="http://feeds.hearstartup.com/hearstartup" />
+			<outline type="rss" text="Planet Money" xmlUrl="http://www.npr.org/rss/podcast.php?id=510289" />
+			<outline type="rss" text="The China History Podcast" xmlUrl="http://feeds.megaphone.fm/ADL6178904608" />
+			<outline type="rss" text="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" />
+			<outline type="rss" text="Common Sense with Dan Carlin" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml" />
+			<outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
+			<outline type="rss" text="a16z" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" />
+			<outline type="rss" text="Reply All" xmlUrl="HTTP://Feeds.gimletmedia.com/hearreplyall" />
+			<outline type="rss" text="Surprisingly Awesome" xmlUrl="http://feeds.gimletmedia.com/surprisinglyawesome" />
+			<outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
+			<outline type="rss" text="Invisibilia" xmlUrl="https://www.npr.org/rss/podcast.php?id=510307" />
+			<outline type="rss" text="The Talk Show With John Gruber" xmlUrl="https://daringfireball.net/thetalkshow/rss" />
+			<outline type="rss" text="The Vergecast" xmlUrl="http://feeds.feedburner.com/ThisIsMyNextPodcast" />
+			<outline type="rss" text="The British History Podcast" xmlUrl="http://feeds.feedburner.com/TheBritishHistoryPodcast" />
+			<outline type="rss" text="The History of India Podcast" xmlUrl="http://historyofindiapodcast.libsyn.com/rss" />
+			<outline type="rss" text="FiveThirtyEight Politics" xmlUrl="http://www.espn.com/espnradio/podcast/feeds/itunes/podCast?id=14554755" />
+			<outline type="rss" text="History of Japan" xmlUrl="http://historyofjapan.libsyn.com/rss" />
+			<outline type="rss" text="Internet History Podcast" xmlUrl="http://feeds.feedburner.com/InternetHistoryPodcast" />
+			<outline type="rss" text="Deeper Shades of House - Deep House Podcast with Lars Behrenroth" xmlUrl="http://feeds.feedburner.com/dsoh" />
+			<outline type="rss" text="Heavyweight" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" />
+			<outline type="rss" text="Science Vs" xmlUrl="http://feeds.gimletmedia.com/sciencevs" />
+			<outline type="rss" text="War College" xmlUrl="http://rss.acast.com/warcollege" />
+			<outline type="rss" text="SyrupCast" xmlUrl="http://mobilesyrup.libsyn.com/rss" />
+			<outline type="rss" text="Revisionist History" xmlUrl="https://feeds.megaphone.fm/revisionisthistory" />
+			<outline type="rss" text="I&apos;d Rather Be Writing" xmlUrl="http://idratherbewriting.com/itunes.rss" />
+			<outline type="rss" text="CanCon Podcast" xmlUrl="https://betakit.libsyn.com/rss" />
+			<outline type="rss" text="Upgrade" xmlUrl="https://www.relay.fm/upgrade/feed" />
+			<outline type="rss" text="COMMONS" xmlUrl="http://canadalandcommons.libsyn.com/rss" />
+			<outline type="rss" text="The Imposter" xmlUrl="http://imposter.libsyn.com/rss" />
+			<outline type="rss" text="The Upgrade by Lifehacker" xmlUrl="https://feeds.megaphone.fm/FGM2944312041" />
+			<outline type="rss" text="The Organist" xmlUrl="https://feeds.kcrw.com/podcast/show/to" />
+			<outline type="rss" text="Free Agents" xmlUrl="https://www.relay.fm/freeagents/feed" />
+			<outline type="rss" text="Dan Carlin&apos;s Hardcore History: Addendum" xmlUrl="http://dchhaddendum.libsyn.com/rss" />
+			<outline type="rss" text="The Secret Life of Canada" xmlUrl="http://thesecretlifeofcanada.libsyn.com/rss" />
+			<outline type="rss" text="And now for something completely indifferent" xmlUrl="https://greenshield.ca/en-ca/podcast/feed" />
+		</outline>
+	</body>
+</opml>
